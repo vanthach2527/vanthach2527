@@ -44,14 +44,20 @@ Xin chào! Mình là **Thạch** — 🎓 sinh viên năm nhất, hiện đang t
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-... *(giữ nguyên phần còn lại như cũ)*
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vanthach2527&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vanthach2527&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanthach2527&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+## 📈 **GITHUB ANALYTICS** 📈
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Songjag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Songjag&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border_radius=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songjag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_radius=10&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Songjag&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&radius=10" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vanthach2527&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
