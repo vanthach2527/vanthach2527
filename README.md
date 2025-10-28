@@ -65,6 +65,18 @@ Xin chào! Mình là **Thạch** — 🎓 sinh viên năm nhất, hiện đang t
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div align="center">
+
+### 👁️ **Profile Views**
+
+<img src="https://komarev.com/ghpvc/?username=Songjag&label=Profile%20Views&color=FFD700&style=for-the-badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vanthach2527&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
