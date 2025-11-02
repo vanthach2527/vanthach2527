@@ -69,7 +69,7 @@ Xin chào! Mình là **Thạch** — 🎓 sinh viên năm nhất, hiện đang t
 
 ### 👁️ **Profile Views**
 
-<img src="https://komarev.com/ghpvc/?username=Songjag&label=Profile%20Views&color=FFD700&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vanthach2527&label=Profile%20Views&color=FFD700&style=for-the-badge" />
 
 </div>
 
